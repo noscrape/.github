@@ -35,4 +35,4 @@ that AI thrives on data, and your data is a valuable commodity that shouldn't be
 
 <br /><br />
 
-## [Detailed Documentation](https://noscrape.github.io/)
+#### Docs can be found at [https://noscrape.github.io/](https://noscrape.github.io/)
