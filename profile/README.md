@@ -35,11 +35,4 @@ that AI thrives on data, and your data is a valuable commodity that shouldn't be
 
 <br /><br />
 
-## Supported Languages
-
-right now, `noscrape` supports following languages:
-
-- [PHP](https://github.com/noscrape/noscrape-php)
-- [NodeJS/Typescript](https://github.com/noscrape/noscrape-node)
-
-  more integrations are in progress
+## [Detailed Documentation](https://noscrape.github.io/)
